@@ -1,0 +1,99 @@
+{
+	"IJN": {
+		"Imperial Japanese Navy" : "กองทัพเรือจักรวรรดิญี่ปุ่น",
+		"Imperial Royal Navy" : "กองทัพเรือจักรวรรดิ",
+		"Sakura Empire" : "กองทัพเรือจักรวรรดิซากุระ"
+	},
+	"A": {
+		"Abukuma" : "อาบุคุมะ",
+		"Agano" : "อากาโนะ",
+		"Akagi" : "อาคากิ",
+		"Akashi" : "อาคาชิ",
+		"Akatsuki" : "อาคัทสึกิ",
+		"Aoba" : "อาโอบะ",
+		"Atago" : "อาตาโกะ",
+		"Ayanami" : "อายานามิ"
+	},
+	"F": {
+		"Fubuki" : "ฟุบุกิ",
+		"Furutaka" : "ฟุรุทากะ",
+		"Fusou" : "ฟุโซ"
+	},
+	"H": {
+		"Hamakaze" : "ฮามะคาเซะ",
+		"Hatsuharu" : "ฮัทสึฮารุ",
+		"Hiei" : "ฮิเอย์",
+		"Hiryuu" : "ฮิริว",
+		"Houshou" : "โฮโช",
+		"Hyuuga" : "ฮิวงะ"
+	},
+	"I": {
+		"Ikazuchi" : "อิคาซึจิ",
+		"Inazuma" : "อินาซึมะ",
+		"Ise" : "อิเสะ",
+		"Isokaze" : "อิโซคาเซะ",
+		"Isuzu" : "อิสุซุ"
+	},
+	"J": {
+		"Jintsuu" : "จินซือ"
+	},
+	"K": {
+		"Kaga" : "คากะ",
+		"Kagerou" : "คาเงโร่",
+		"Kako" : "คาโกะ",
+		"Kamikaze" : "คามิคาเซะ",
+		"Kinugasa" : "คินุกาสะ",
+		"Kisaragi" : "คิซารากิ",
+		"Kuroshio" : "คุโรชิโอะ"
+	},
+	"M": {
+		"Matsukaze" : "มัทสึคาเซะ",
+		"Maya" : "มายะ",
+		"Mikasa" : "มิคาสะ",
+		"Mikazuki" : "มิคาสึกิ",
+		"Mikuma" : "มิคุมะ",
+		"Minazuki" : "มินาซึกิ",
+		"Mogami" : "โมกามิ",
+		"Mutsuki" : "มุทสึกิ",
+		"Myoukou" : "เมียวโค"
+	},
+	"N": {
+		"Nachi" : "นาจิ",
+		"Nagara" : "นาการะ",
+		"Niizuki" : "นีซึกิ",
+		"Nowaki" : "โนวากิ"
+	},
+	"O": {
+		"Oyashio" : "โอยาชิโอะ"
+	},
+	"S": {
+		"Sendai" : "เซนได",
+		"Shigure" : "ชิกุเระ",
+		"Shiranui" : "ชิรานุอิ",
+		"Shiratsuyu" : "ชิราสึยุ",
+		"Shouhou" : "โชโฮ",
+		"Shoukaku" : "โชคาคุ",
+		"Souryuu" : "โซริว"
+	},
+	"T": {
+		"Takao" : "ทาคาโอะ",
+		"Tanikaze" : "ทานิคาเซะ"
+	},
+	"U": {
+		"Urakaze" : "อุระคาเซะ",
+		"Uzuki" : "อุซึกิ"
+	},
+	"W": {
+		"Wakaba" : "วาคาบะ"
+	},
+	"Y": {
+		"Yamashiro" : "ยามาชิโระ",
+		"Yukikaze" : "ยูกิคาเซะ",
+		"Yuubari" : "ยูบาริ",
+		"Yuudachi" : "ยูดาจิ",
+		"Yuugure" : "ยูกุเระ"
+	},
+	"Z": {
+		"Zuikaku" : "ซุยคาคุ"
+	}
+}
