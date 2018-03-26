@@ -4,7 +4,7 @@
 		"Royal Navy" : "ราชนาวี / ราชนาวีหลวง / กองทัพเรือสหราชอาณาจักร / กองทัพเรือหลวง / กองทัพเรืออังกฤษ"
 	},
 	"A": {
-    	"Acasta" : "",
+		"Acasta" : "",
 		"Achilles" : "",
 		"Ajax" : "",
 		"Amazon" : "",
@@ -17,68 +17,89 @@
 		"Beagle" : "",
     	"Belfast" : "เบลฟาสต์",
 		"Bulldog" : ""
+	},
 	"C": {
 		"Comet" : "",
 		"Crescent" : "",
 		"Cygnet" : ""
+	},
 	"D": {
 		"Dorsetshire" : "",
 		"Duke of York" : ""
+	},
 	"E": {
 		"Edinburgh" : "",
 		"Erebus" : "",
 		"Exeter" : ""
+	},
 	"F": {
 		"Fiji" : "",
 		"Fortune" : "",
 		"Foxhound" : ""
+	},
 	"G": {
 		"Galatea" : "",
 		"Glorious" : "",
 		"Glowworm" : ""
+	},
 	"H": {
 		"Hermes" : "",
 		"Hood" : ""
+	},
 	"I": {
 		"Illustrious" : "อิลัสเทรียส"
+	},
 	"J": {
 		"Jamaica" : "",
 		"Javelin" : "จาเวลิน",
 		"Jersey" : "",
 		"Juno" : "",
 		"Jupiter" : ""
+	},
 	"K": {
 		"Kent" : ""
+	},
 	"L": {
 		"Leander" : "",
 		"London" : ""
+	},
 	"M": {
 		"Matchless" : "",
 		"Musketeer" : ""
+	},
 	"N": {
 		"Nelson" : "",
 		"Norfolk" : ""
+	},
 	"P": {
 		"Prince of Wales" : "ปรินส์ออฟเวลส์  เรือประจัญบานชั้นพระเจ้าจอร์จที่ 5"
+	},
 	"Q": {
 		"Queen Elizabeth" : ""
+	},
 	"R": {
 		"Renown" : "",
 		"Repulse" : "",
 		"Rodney" : ""
+	},
 	"S": {
 		"Sheffield" : "",
 		"Shropshire" : "",
 		"Suffolk" : ""
+	},
 	"T": {
-		"" : "Terror"
+		"Terror" : ""
+	},
 	"U": {
 		"Unicorn" : "ยูนิคอร์น"
+	},
 	"V": {
 		"Vampire" : "",
 		"Victorious" : ""
+	},
 	"W": {
 		"Warspite" : ""
+	},
 	"Y": {
 		"York" : ""
 	}
