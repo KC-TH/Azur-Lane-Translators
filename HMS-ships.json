@@ -4,103 +4,103 @@
 		"Royal Navy" : "ราชนาวี / ราชนาวีหลวง / กองทัพเรือสหราชอาณาจักร / กองทัพเรือหลวง / กองทัพเรืออังกฤษ"
 	},
 	"A": {
-		"Acasta" : "",
-		"Achilles" : "",
-		"Ajax" : "",
-		"Amazon" : "",
-		"Ardent" : "",
-		"Arethusa" : "",
-		"Ark Royal" : "",
-		"Aurora" : ""
+		"Acasta" : "อาคัสต้า",
+		"Achilles" : "อคิลลีส",
+		"Ajax" : "อาแจ็กซ์",
+		"Amazon" : "อเมซอน",
+		"Ardent" : "อาร์เดนท์",
+		"Arethusa" : "แอรีธูซา",
+		"Ark Royal" : "อาร์ค รอยัล",
+		"Aurora" : "ออโรรา"
 	},
 	"B": {
-		"Beagle" : "",
+		"Beagle" : "บีเกิล",
 		"Belfast" : "เบลฟาสต์",
-		"Bulldog" : ""
+		"Bulldog" : "บูลด็อก"
 	},
 	"C": {
-		"Comet" : "",
-		"Crescent" : "",
-		"Cygnet" : ""
+		"Comet" : "โคเมท",
+		"Crescent" : "เครสเซนต์",
+		"Cygnet" : "ซิกเน็ท"
 	},
 	"D": {
-		"Dorsetshire" : "",
-		"Duke of York" : ""
+		"Dorsetshire" : "ดอร์เซ็ทเชียร์",
+		"Duke of York" : "ดยุก ออฟ ยอร์ก"
 	},
 	"E": {
-		"Edinburgh" : "",
-		"Erebus" : "",
-		"Exeter" : ""
+		"Edinburgh" : "เอดินบะระ",
+		"Erebus" : "เอเรบัส",
+		"Exeter" : "เอ็กซิเตอร์"
 	},
 	"F": {
-		"Fiji" : "",
-		"Fortune" : "",
-		"Foxhound" : ""
+		"Fiji" : "ฟีจี",
+		"Fortune" : "ฟอร์จูน",
+		"Foxhound" : "ฟอกซ์ฮาว์ด"
 	},
 	"G": {
-		"Galatea" : "",
-		"Glorious" : "",
-		"Glowworm" : ""
+		"Galatea" : "กาลาเทีย",
+		"Glorious" : "กลอเรียส",
+		"Glowworm" : "โกลว์วอร์ม"
 	},
 	"H": {
-		"Hermes" : "",
-		"Hood" : ""
+		"Hermes" : "เฮอร์มีส",
+		"Hood" : "ฮูด"
 	},
 	"I": {
 		"Illustrious" : "อิลัสเทรียส"
 	},
 	"J": {
-		"Jamaica" : "",
+		"Jamaica" : "จาเมกา",
 		"Javelin" : "จาเวลิน",
-		"Jersey" : "",
-		"Juno" : "",
-		"Jupiter" : ""
+		"Jersey" : "เจอร์ซีย์",
+		"Juno" : "จูโน",
+		"Jupiter" : "จูปิเตอร์"
 	},
 	"K": {
-		"Kent" : ""
+		"Kent" : "เคนต์"
 	},
 	"L": {
-		"Leander" : "",
-		"London" : ""
+		"Leander" : "ลีนเดอร์",
+		"London" : "ลอนดอน"
 	},
 	"M": {
-		"Matchless" : "",
-		"Musketeer" : ""
+		"Matchless" : "แม็ทซ์เลซ",
+		"Musketeer" : "มัสเกตเทียส์"
 	},
 	"N": {
-		"Nelson" : "",
-		"Norfolk" : ""
+		"Nelson" : "เนลสัน",
+		"Norfolk" : "นอร์ฟอล์ก"
 	},
 	"P": {
-		"Prince of Wales" : "ปรินส์ออฟเวลส์  เรือประจัญบานชั้นพระเจ้าจอร์จที่ 5"
+		"Prince of Wales" : "ปรินส์ออฟเวลส์ / เรือประจัญบานชั้นพระเจ้าจอร์จที่ 5"
 	},
 	"Q": {
-		"Queen Elizabeth" : ""
+		"Queen Elizabeth" : "ควีน เอลิซาเบธ"
 	},
 	"R": {
-		"Renown" : "",
-		"Repulse" : "",
-		"Rodney" : ""
+		"Renown" : "รีนาวน์",
+		"Repulse" : "รีพัลส์",
+		"Rodney" : "ร็อดนี่ย์"
 	},
 	"S": {
-		"Sheffield" : "",
-		"Shropshire" : "",
-		"Suffolk" : ""
+		"Sheffield" : "เชฟฟิลด์",
+		"Shropshire" : "ชร็อปเชียร์",
+		"Suffolk" : "ซัฟฟอล์ก"
 	},
 	"T": {
-		"Terror" : ""
+		"Terror" : "เทอร์เรอร์"
 	},
 	"U": {
 		"Unicorn" : "ยูนิคอร์น"
 	},
 	"V": {
-		"Vampire" : "",
-		"Victorious" : ""
+		"Vampire" : "แวมไพร์",
+		"Victorious" : "วิกตอเรียส"
 	},
 	"W": {
-		"Warspite" : ""
+		"Warspite" : "วอร์สไปท์"
 	},
 	"Y": {
-		"York" : ""
+		"York" : "ยอร์ก"
 	}
 }
