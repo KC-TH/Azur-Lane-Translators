@@ -5,18 +5,18 @@
 		"Eagle Union" : "กองทัพอินทรี / กองทัพเรืออินทรีเหล็ก"
 	},
 	"A": {
-		"Arizona" : "",
-		"Atlanta" : "",
-		"Aulick" : ""
+		"Arizona" : "แอริโซนา",
+		"Atlanta" : "แอตแลนตา",
+		"Aulick" : "ออร์ลิค"
 	},
 	"B": {
-		"Bailey" : "",
-		"Benson" : "",
-		"Bogue" : "",
-		"Brooklyn" : ""
+		"Bailey" : "ไบเลย์",
+		"Benson" : "เบนสัน",
+		"Bogue" : "โบรก",
+		"Brooklyn" : "บรุกลิน"
 	},
 	"C": {
-		"California" : "",
+		"California" : "แคลิฟอร์เนีย",
 		"Cassin" : "",
 		"Charles Ausburne" : "",
 		"Chicago" : "",
@@ -57,7 +57,7 @@
 	"L": {
 		"Laffey" : "ลาฟฟี่",
 		"Langley" : "",
-		"Lexington" : "",
+		"Lexington" : "เล็กซิงตัน",
 		"Long Island" : ""
 	},
 	"M": {
@@ -91,7 +91,7 @@
 	"S": {
 		"Salt Lake City" : "",
 		"San Diego" : "",
-		"Saratoga" : "",
+		"Saratoga" : "ซาราโตกา",
 		"Sims" : "",
 		"South Dakota" : "",
 		"Spence" : "",
