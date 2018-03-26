@@ -17,100 +17,100 @@
 	},
 	"C": {
 		"California" : "แคลิฟอร์เนีย",
-		"Cassin" : "",
-		"Charles Ausburne" : "",
-		"Chicago" : "",
-		"Cleveland" : "",
-		"Colorado" : "",
-		"Columbia" : "",
-		"Craven" : ""
+		"Cassin" : "แคสซิส",
+		"Charles Ausburne" : "ชาลส์ ออสเบิร์น",
+		"Chicago" : "ชิคาโก",
+		"Cleveland" : "คลีฟแลนด์",
+		"Colorado" : "โคโลราโด",
+		"Columbia" : "โคลัมเบีย",
+		"Craven" : "เครเวน"
 	},
 	"D": {
-		"Denver" : "",
-		"Downes" : ""
+		"Denver" : "เดนเวอร์",
+		"Downes" : "ดาวนส์"
 	},
 	"E": {
 		"Eldridge" : "เอลดริดจ์",	
-		"Enterprise" : ""
+		"Enterprise" : "เอนเทอร์ไพรซ์"
 	},
 	"F": {
-		"Fletcher" : "",
-		"Foote" : ""
+		"Fletcher" : "เฟลตเชอร์",
+		"Foote" : "ฟูท"
 	},
 	"G": {
-		"Gridley" : ""
+		"Gridley" : "กริดเลย์"
 	},
 	"H": {
-		"Hammann" : "",
-		"Helena" : "",
-		"Honolulu" : "",
-		"Hornet" : "",
-		"Houston" : "",
+		"Hammann" : "ฮัมมานน์",
+		"Helena" : "เฮเลน่า",
+		"Honolulu" : "โฮโนลูลู",
+		"Hornet" : "ฮอร์เน็ต",
+		"Houston" : "ฮิวสตัน",
 	},
 	"I": {
-		"Indianapolis" : ""
+		"Indianapolis" : "อินเดียแนโพลิส"
 	},
 	"J": {
-		"Jenkins" : "",
-		"Juneau" : ""
+		"Jenkins" : "เจนคินส์",
+		"Juneau" : "จูนัว"
 	},
 	"L": {
 		"Laffey" : "ลาฟฟี่",
-		"Langley" : "",
+		"Langley" : "แลงลีย์",
 		"Lexington" : "เล็กซิงตัน",
-		"Long Island" : ""
+		"Long Island" : "ลองไอแลนด์"
 	},
 	"M": {
-		"Maryland" : "",
-		"Maury" : "",
-		"McCall" : "",
-		"Montpelier" : ""
+		"Maryland" : "แมริแลนด์",
+		"Maury" : " มูรีย์",
+		"McCall" : "แมคคอล",
+		"Montpelier" : "มอนต์พีเลียร์"
 	},
 	"N": {
-		"Nevada" : "",
-		"Nicholas" : "",
-		"North Carolina" : "",
-		"Northampton" : ""
+		"Nevada" : "เนวาดา",
+		"Nicholas" : "นิโคลัส",
+		"North Carolina" : "นอร์ทแคโรไลนา",
+		"Northampton" : "นอร์ธแธมตัน"
 	},
 	"O": {
-		"Oklahoma" : "",
-		"Omaha" : ""
+		"Oklahoma" : "โอคลาโฮมา",
+		"Omaha" : "โอมาฮา"
 	},
 	"P": {
-		"Pennsylvania" : "",
-		"Pensacola" : "",
-		"Phoenix" : "",
-		"Portland" : ""
+		"Pennsylvania" : "เพนซิลเวเนีย",
+		"Pensacola" : "เพนซาโคลา",
+		"Phoenix" : "ฟีนิกซ์",
+		"Portland" : "พอร์ตแลนด์"
 	},
 	"R": {
-		"Radford" : "",
-		"Raleigh" : "",
-		"Ranger" : "",
-		"Richmond" : ""
+		"Radford" : "แรดฟอร์ด",
+		"Raleigh" : "ราลี",
+		"Ranger" : "เรนเจอร์",
+		"Richmond" : "ริชมอนด์"
 	},
 	"S": {
-		"Salt Lake City" : "",
-		"San Diego" : "",
+		"Salt Lake City" : "ซอลต์เลกซิตี",
+		"San Diego" : "แซนดีเอโก",
 		"Saratoga" : "ซาราโตกา",
-		"Sims" : "",
-		"South Dakota" : "",
-		"Spence" : "",
-		"St. Louis" : ""
+		"Sims" : "ซิมส์",
+		"South Dakota" : "เซาท์ดาโคตา",
+		"Spence" : "สเปนซ์",
+		"St. Louis" : "เซนต์หลุยส์"
 	},
 	"T": {
-		"Tennessee" : "",
-		"Thatcher" : ""
+		"Tennessee" : "เทนเนสซี",
+		"Thatcher" : "แทตเชอร์"
 	},
 	"V": {
-		"Vestal" : ""
+		"Vestal" : "เวสทัล"
 	},
 	"W": {
-		"Washington" : "",
-		"Wasp" : "",
-		"West Virginia" : "",
-		"Wichita" : "",
+		"Washington" : "วอชิงตัน",
+		"Wasp" : "วอสป์",
+		"West Virginia" : "เวสต์เวอร์จิเนีย",
+		"Wichita" : "วิชิต้า",
 	},
 	"Y": {
-		"Yorktown" : ""
+		"Yorktown" : "ยอร์กทาวน์"
 	}
 }
