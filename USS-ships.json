@@ -1,11 +1,116 @@
 {
 	"USN": {
 		"United States Navy" : "กองทัพเรือสหรัฐอเมริกา",
-		"United States Ship" : "เรือรบสหรัฐ / เรือรบสหรัฐอเมริกา"
+		"United States Ship" : "เรือรบสหรัฐ / เรือรบสหรัฐอเมริกา",
+		"Eagle Union" : "กองทัพอินทรี / กองทัพเรืออินทรีเหล็ก"
 	},
-	"L": {
-		"Laffey" : "ลาฟฟี่"
+	"A": {
+		"Arizona" : "",
+		"Atlanta" : "",
+		"Aulick" : ""
 	},
+	"B": {
+		"Bailey" : "",
+		"Benson" : "",
+		"Bogue" : "",
+		"Brooklyn" : ""
+	},
+	"C": {
+		"California" : "",
+		"Cassin" : "",
+		"Charles Ausburne" : "",
+		"Chicago" : "",
+		"Cleveland" : "",
+		"Colorado" : "",
+		"Columbia" : "",
+		"Craven" : ""
+	},
+	"D": {
+		"Denver" : "",
+		"Downes" : ""
+	}
 	"E": {
-		"Eldridge" : "เอลดริดจ์"
+		"Eldridge" : "เอลดริดจ์",	
+		"Enterprise" : ""
+	},
+	"F": {
+		"Fletcher" : "",
+		"Foote" : ""
+	},
+	"G": {
+		"Gridley" : ""
+	},
+	"H": {
+		"Hammann" : "",
+		"Helena" : "",
+		"Honolulu" : "",
+		"Hornet" : "",
+		"Houston" : "",
+	},
+	"I": {
+		"Indianapolis" : ""
+	},
+	"J": {
+		"Jenkins" : "",
+		"Juneau" : ""
+	}
+	"L": {
+		"Laffey" : "ลาฟฟี่",
+		"Langley" : "",
+		"Lexington" : "",
+		"Long Island" : ""
+	},
+	"M": {
+		"Maryland" : "",
+		"Maury" : "",
+		"McCall" : "",
+		"Montpelier" : ""
+	},
+	"N": {
+		"Nevada" : "",
+		"Nicholas" : "",
+		"North Carolina" : "",
+		"Northampton" : ""
+	},
+	"O": {
+		"Oklahoma" : "",
+		"Omaha" : ""
+	},
+	"P": {
+		"Pennsylvania" : "",
+		"Pensacola" : "",
+		"Phoenix" : "",
+		"Portland" : ""
+	},
+	"R": {
+		"Radford" : "",
+		"Raleigh" : "",
+		"Ranger" : "",
+		"Richmond" : ""
+	},
+	"S": {
+		"Salt Lake City" : "",
+		"San Diego" : "",
+		"Saratoga" : "",
+		"Sims" : "",
+		"South Dakota" : "",
+		"Spence" : "",
+		"St. Louis" : ""
+	},
+	"T": {
+		"Tennessee" : "",
+		"Thatcher" : ""
+	},
+	"V": {
+		"Vestal" : ""
+	},
+	"W": {
+		"Washington" : "",
+		"Wasp" : "",
+		"West Virginia" : "",
+		"Wichita" : "",
+	},
+	"Y": {
+		"Yorktown" : ""
+	}
 }
