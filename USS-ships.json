@@ -13,8 +13,10 @@
 	},
 	"B": {
 		"Bailey" : "เบลีย์",
+		"Baltimore" : "บัลติมอร์",
 		"Benson" : "เบนสัน",
 		"Bogue" : "โบรก",
+		"Birmingham" : "เบอร์มิงแฮม",
 		"Bush" : "บุช",
 		"Bunker Hill" : "บังเกอร์ฮิลล์",
 		"Brooklyn" : "บรุกลิน"
@@ -117,6 +119,7 @@
 	"S": {
 		"Salt Lake City" : "ซอลต์เลกซิตี",
 		"San Diego" : "แซนดีเอโก",
+		"San Juan" : "ซานฮวน",
 		"Saratoga" : "ซาราโตกา",
 		"Seattle" : "ซีแอตเทิล",
 		"Shangri-La" : "แชงกรีลา",
