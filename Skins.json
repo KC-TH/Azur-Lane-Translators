@@ -38,6 +38,7 @@
 		"Bataan" : "ชุดนอน: ชุดนอนปุกปุย",
 		"Birmingham" : "ชุดนักเรียน: อัศวินสีชาด",
 		"Bismarck" : "ความรุ่งเรืองของไอรอนบลัด [Live2D]",
+		"Belfast" : "Elegant and Nobel Servant",
 		"Belfast" : "ชุดแต่งงาน: คำสาบานแห่งรัก",
 		"Belfast" : "ชุดตรุษจีน [Live2D]",
 		"Black Heart" : "รอยยิ้มของเทพธิดา",
@@ -67,6 +68,7 @@
 	"D": {
 		"Dewey" : "ชุดว่ายน้ำ",
 		"Deutschland" : "ชุดฮาโลวีน: ปีศาจเจ้าหญิงแห่งความมืด",
+		"Deutschland" : "Demon Princess Night Party",
 		"Duke of York" : "กลีบดอกไม้แห่งนิรันดร์",
 		"Deutschland" : "ชุดว่ายน้ำ: ได้เวลาเซอวิส!? [Live2D]",
 		"Dunkerque" : "เทพธิดายามบ่าย",
@@ -91,6 +93,7 @@
 		"Fusou" : "ชุดนอน: ภรรยาผู้แสนนุ่มนิ่ม",
 		"Forbin" : "ชุดไปรเวท: Fleur de Blanc",
 		"Forbin" : "ชุดนักเรียน:โรงเรียนอัศวินฝึกหัด",
+		"Formidable" : "ชุดว่ายน้ำ: Royal Lady Sea",
 		"Fiji" : "สไตล์แฟชั่น?",
 		"Fumizuki" : "ชุดนอน: ภูตน้อยครึ่งหลับครึ่งตื่น"
 	},
@@ -100,6 +103,7 @@
 		"Georgia" : "ไข่มุกดำทะเลใต้",
 		"Georgia" : "ชุดว่ายน้ำ: Lanier Swan",
 		"Graf Zeppelin" : "ชุดว่ายน้ำ: หาดทรายแห่งโชคชะตา [Live2D]",
+		"Giulio Cesare" : "Fitness Master",
 		"Glorious" : "ชุดนักเรียน: ชีวิตสาววิทยาลัย"
 	},
 	"H": {
@@ -143,8 +147,9 @@
 		"Javelin" : "ชุดแต่งงาน",
 		"Javelin" : "ชุดนักเรียน: Very Slow Advance!",
 		"Javelin" : "มาเป็นพนักงานเสิร์ฟกันเถอะ",
-		"Juno" : "วันที่อร่อยนิดหน่อย",
 		"Jamaica" : "Dark Bolt",
+		"Jean Bart" : "Unexposed Bloodstone",
+		"Juno" : "วันที่อร่อยนิดหน่อย",
 		"Jintsuu" : "ชุดว่ายน้ำ: The Tactician on Vacation"
 	},
 	"K": {
@@ -168,6 +173,7 @@
 		"Laffey" : "พนักงานกระต่ายน้อย",
 		"Lexington" : "ชุดตรุษจีน",
 		"Le Malin" : "วันอาทิตย์แสนขี้เกียจำ",
+		"Littorio" : "ชุดว่ายน้ำ: Shine in Naples",
 		"L'Opiniâtre" : "ชุดว่ายน้ำ",
 		"Le Mars" : "ชุดนักเรียน:โรงเรียนแห่งความสุขที่เปล่งประกาย",
 		"Le Mars" : "ชุดว่ายน้ำ: Été Brillant"
@@ -196,6 +202,7 @@
 		"Ning Hai" : "เทศกาลไหว้พระจันทร์"
 	},
 	"O": {
+		"Ooshio" : "Tipsy Party",
 		"Ooshio" : "ชุดคริสต์มาส: ของที่ระลึกของกวางเรนเดียร์"
 	},
 	"P": {
@@ -221,7 +228,9 @@
 		"Saratoga" : "Virtual AIdol",
 		"Saratoga" : "ไลฟ์การกุศลทะเลสีคราม",
 		"San Diego" : "ชุดคริสต์มาส: แซนดี้คลอส",
+		"Seattle" : "Gorgeous Party",
 		"Shouhou" : "ชุดฮาโลวีน: แม่มดออกลาดตระเวน",
+		"Shoukaku" : "Crane dancing with the wind [Live2D]",
 		"Shigure" : "ยิงเลย I-490!",
 		"Shigure" : "ดาวนำโชคของงานราตรี",
 		"Sheffield" : "Cloak & Dagger",
@@ -240,12 +249,14 @@
 	},
 	"T": {
 		"Tirpitz" : "ชุดว่ายน้ำ: น้ำแข็งละลายในฤดูร้อน [Live2D]",
+		"Tirpitz" : "Ironblood Ice Wind",
 		"Tanikaze" : "เด็กหลงทางกับเขาวงกตผีเสื้อ",
 		"Taiho" : "งานเลี้ยงต้องห้าม [Live2D]",
 		"Tai Yuan" : "ชุดตรุษจีน [Live2D]",
 		"Takao" : "ชุดแต่งงาน",
 		"Takao" : "ชุดตรุษจีน: ศึกษาฤดูใบไม้ผลิ [Live2D]",
 		"Takao" : "ชุดนักเรียน: ความโรแมนติกในรั้วโรงเรียน",
+		"Trento" : "ชุดว่ายน้ำ: Multiple Tempation",
 		"Terror" : "ฮาโลวีน เทอร์เรอร์"
 	},
 	"U": {
@@ -283,6 +294,7 @@
 		"Yuugure" : "ชุดเมด: คุณเมดฝึกหัด",
 		"Yuudachi" : "ชุดปีใหม่: ก้อนหิมะปีใหม่",
 		"Yuudachi" : "นักล่าซาลาเปา",
+		"Yuudachi" : "Meat Party",
 		"Yuudachi" : "ชุดแต่งงาน: เจ้าสาวแห่งโซโลมอน",
 		"Yoizuki" : "ชุดนักเรียน: เตรียมพร้อมสำหรับงานแข่ง",
 		"Yorktown" : "ค่ำคืนที่ลืมเลือน",
@@ -290,6 +302,7 @@
 		"Yukikaze" : "เล่นชิงช้า"
 	},
 	"Z": {
+		"Zara" : "ชุดว่ายน้ำ: Meet at the waterside [Live2D]",
 		"Zuikaku" : "เทศกาลบุปผากระเรียน",
 		"Z1" : "ชุดนักเรียน: เด็กหัวรั้นในชั้นเรียน",
 		"Z23" : "งานเลี้ยงชั้นสูง",
