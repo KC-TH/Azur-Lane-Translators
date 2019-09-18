@@ -38,7 +38,7 @@
 		"Bataan" : "ชุดนอน: ชุดนอนปุกปุย",
 		"Birmingham" : "ชุดนักเรียน: อัศวินสีชาด",
 		"Bismarck" : "ความรุ่งเรืองของไอรอนบลัด [Live2D]",
-		"Belfast" : "Elegant and Nobel Servant",
+		"Belfast" : "The Noble Attendant",
 		"Belfast" : "ชุดแต่งงาน: คำสาบานแห่งรัก",
 		"Belfast" : "ชุดตรุษจีน [Live2D]",
 		"Black Heart" : "รอยยิ้มของเทพธิดา",
@@ -68,7 +68,7 @@
 	"D": {
 		"Dewey" : "ชุดว่ายน้ำ",
 		"Deutschland" : "ชุดฮาโลวีน: ปีศาจเจ้าหญิงแห่งความมืด",
-		"Deutschland" : "Demon Princess Night Party",
+		"Deutschland" : "Demon Princess' Dark Hour Banquet",
 		"Duke of York" : "กลีบดอกไม้แห่งนิรันดร์",
 		"Deutschland" : "ชุดว่ายน้ำ: ได้เวลาเซอวิส!? [Live2D]",
 		"Dunkerque" : "เทพธิดายามบ่าย",
@@ -130,6 +130,7 @@
 		"I-56" : "ชุดนักเรียน: มุมของดอกทานตะวัน",
 		"I-168" : "วันงานเทศกาล",
 		"Ibuki" : "ชุดปีใหม่ [Live2D]",
+		"Ibuki" : "Snow on the Wind",
 		"Izumo" : "ชุดปีใหม่",
 		"Illustrious" : "งานเลี้ยงน้ำชาที่ไม่มีวันสิ้นสุด",
 		"Illustrious" : "การเต้นรำที่เปล่งประกาย",
@@ -148,7 +149,7 @@
 		"Javelin" : "ชุดนักเรียน: Very Slow Advance!",
 		"Javelin" : "มาเป็นพนักงานเสิร์ฟกันเถอะ",
 		"Jamaica" : "Dark Bolt",
-		"Jean Bart" : "Unexposed Bloodstone",
+		"Jean Bart" : "Uninhibited Bloodstone",
 		"Juno" : "วันที่อร่อยนิดหน่อย",
 		"Jintsuu" : "ชุดว่ายน้ำ: The Tactician on Vacation"
 	},
@@ -202,7 +203,7 @@
 		"Ning Hai" : "เทศกาลไหว้พระจันทร์"
 	},
 	"O": {
-		"Ooshio" : "Tipsy Party",
+		"Ooshio" : "Woozy Party",
 		"Ooshio" : "ชุดคริสต์มาส: ของที่ระลึกของกวางเรนเดียร์"
 	},
 	"P": {
@@ -211,6 +212,7 @@
 		"Prince of Wales" : "ชุดว่ายน้ำ",
 		"Ping Hai" : "เทศกาลไหว้พระจันทร์",
 		"Ping Hai" : "ชุดว่ายน้ำ: ความสุขในหน้าร้อน",
+		"Prinz Eugen" : "Cordial Cornflower",
 		"Prinz Eugen" : "ชุดว่ายน้ำ: รอยยิ้มที่ไม่จืดจาง",
 		"Prinz Eugen" : "ชุดแต่งงาน: ซิมโฟนีแห่งโชคชะตา",
 		"Prinz Eugen" : "ชุดปีใหม่: ร้อยบุปผาเริงระบำ"
@@ -220,6 +222,7 @@
 		"Queen Elizabeth" : "การเต้นรำของราชินี"
 	},
 	"R": {
+		"Roon" : "Dark Red Grin",
 		"Rodney" : "พนักงานรายวันฝึกหัด"
 	},
 	"S": {
@@ -230,7 +233,7 @@
 		"San Diego" : "ชุดคริสต์มาส: แซนดี้คลอส",
 		"Seattle" : "Gorgeous Party",
 		"Shouhou" : "ชุดฮาโลวีน: แม่มดออกลาดตระเวน",
-		"Shoukaku" : "Crane dancing with the wind [Live2D]",
+		"Shoukaku" : "The Crane that Dances With the Wind [Live2D]",
 		"Shigure" : "ยิงเลย I-490!",
 		"Shigure" : "ดาวนำโชคของงานราตรี",
 		"Sheffield" : "Cloak & Dagger",
@@ -249,7 +252,7 @@
 	},
 	"T": {
 		"Tirpitz" : "ชุดว่ายน้ำ: น้ำแข็งละลายในฤดูร้อน [Live2D]",
-		"Tirpitz" : "Ironblood Ice Wind",
+		"Tirpitz" : "Iron Blood Snowstorm",
 		"Tanikaze" : "เด็กหลงทางกับเขาวงกตผีเสื้อ",
 		"Taiho" : "งานเลี้ยงต้องห้าม [Live2D]",
 		"Tai Yuan" : "ชุดตรุษจีน [Live2D]",
@@ -261,6 +264,7 @@
 	},
 	"U": {
 		"U-47" : "นักปั่นมือใหม่?",
+		"U-47" : "Eigenen Raum",
 		"U-73" : "ได้เวลาทดลองวิทยาศาสตร์!",
 		"U-81" : "ซีรีนเซเรเนด",
 		"U-101" : "ชุดนักเรียน: นักเป่าทรอมโบนของโรงเรียน",
@@ -294,7 +298,7 @@
 		"Yuugure" : "ชุดเมด: คุณเมดฝึกหัด",
 		"Yuudachi" : "ชุดปีใหม่: ก้อนหิมะปีใหม่",
 		"Yuudachi" : "นักล่าซาลาเปา",
-		"Yuudachi" : "Meat Party",
+		"Yuudachi" : "Carnivore Carnival!",
 		"Yuudachi" : "ชุดแต่งงาน: เจ้าสาวแห่งโซโลมอน",
 		"Yoizuki" : "ชุดนักเรียน: เตรียมพร้อมสำหรับงานแข่ง",
 		"Yorktown" : "ค่ำคืนที่ลืมเลือน",
