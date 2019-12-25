@@ -27,9 +27,11 @@
 		"Amazon" : "ลิตเติ้ลออร์เคสตรา",
 		"Ark Royal" : "ชุดว่ายน้ำ: ยาม(หมี)ฝั่ง",
 		"Ark Royal" : "Guardian of the Ball [Live2D]",
+		"Ark Royal" : "ชุดปีใหม่: New Year’s Protectress",
 		"Aurora" : "ชุดตรุษจีน: เรื่องราวของฤดูใบไม้ผลิ",
 		"Aurora" : "เพลงแห่งรุ่งอรุณ",
 		"Akatsuki" : "มุ่งหน้าสู่ขั้วโลกเหนือ",
+		"Ayanami" : "ชุดปีใหม่: Pulse of the New Year",
 		"Ayanami" : "ไอดอล: Troubled Star Idol",
 		"Ayanami" : "ชุดตรุษจีน",
 		"Ayanami" : "ชุดแต่งงาน",
@@ -64,6 +66,7 @@
 		"Cleveland" : "ชุดฮาโลวีน: สายเลือดปีศาจ",
 		"Cleveland" : "ค่ำคืนของอัศวิน [Live2D]",
 		"Cleveland" : "ชุดแต่งงาน: Heartfelt Moment",
+		"Cleveland" : "ชุดปีใหม่: New Year’s Challenge!",
 		"Chang Chun" : "ชุดตรุษจีน: ความรักของฤดูใบไม้ผลิ",
 		"Craven" : "ชุดนักเรียน: เชียร์ลีดเดอร์นอกสถานที่",
 		"Concord" : "ชุดคริสต์มาส: Sweet☆Christmas",
@@ -98,6 +101,7 @@
 		"Essex" : "A Trip Down Route 66"
 	},
 	"F": {
+		"Friedrich der Große" : "ชุดปีใหม่: Ceremonial Robes of Darkness",
 		"Fubuki" : "ชุดนักเรียน: อีก 5 นาทีจะสายแล้ว",
 		"Fubuki" : "เด็กถือป้าย #ฟุบุไก่",
 		"Fubuki" : "Music Pixy [Live2D]",
@@ -132,6 +136,7 @@
 		"Honolulu" : "ชุดคริสต์มาส: ของขวัญไฟสีแดง",
 		"Honolulu" : "เทศกาลของสองเรา [Live2D]",
 		"Hiei" : "ขุดนอน: การเดินทางของบุปผาจันทรา",
+		"Hibiki" : "ชุดปีใหม่: Little New Year Devil Hibiki",
 		"Hood" : "ชุดแต่งงาน",
 		"Hornet" : "Bubbly Anniversary!",
 		"Hobby" : "ชุดนักเรียน: Little School Star",
@@ -173,18 +178,22 @@
 		"Jintsuu" : "ชุดว่ายน้ำ: The Tactician on Vacation"
 	},
 	"K": {
+		"Kasumi" : "ชุดปีใหม่: Soft and Warm New Year",
 		"Kaga" : "ชุดว่ายน้ำ: โขดหินพิฆาตแห่งหน้าร้อน",
 		"Kaga" : "ชุดปีใหม่: คำอวยพรของจิ้งจอกขาว",
 		"Kaga" : "ชุดแต่งงาน: ดอกว่านสิบแสนแห่งดินแดนอันบริสุทธิ์",
 		"Kalk" : "ชุดนักเรียน: Snow fairy of Academy",
 		"Kagerou" : "ชุดฮาโลวีน: ฟักทองกับวันฮาโลวีน",
 		"Kawakaze" : "สลับฉากโมโนโครม",
+		"Kawakaze" : "ชุดแต่งงาน: Ingredients of a Sweet Dream",
 		"Kisaragi" : "ชุดปีใหม่: คำอธิษฐานปีใหม่",
 		"Kimberly" : "ชุดตรุษจีน",
 		"King George V" : "กุหลาบแห่งวินด์เซอร์",
 		"Kongo" : "ฮากามะ",
 		"Kiyonami" : "ชุดคริสต์มาส: Festive Riding Hood?",
 		"Kitakaze" : "เหมางานเทศกาล",
+		"Kinu" : "ชุดปีใหม่: New Year’s Sword Demon",
+		"Kirishima" : "ชุดปีใหม่: Casual Fervor",
 		"Kirishima" : "ชุดว่ายน้ำ: ไม่สะทกสะท้านหน้าร้อน",
 		"Kirishima" : "ชุดนักเรียน: ได้เวลายิงหลังเลิกเรียน"
 	},
@@ -193,6 +202,7 @@
 		"Laffey" : "ชุดตรุษจีน [Live2D]",
 		"Laffey" : "พนักงานกระต่ายน้อย",
 		"Laffey" : "ไอดอล: Usa Usa Idol",
+		"Laffey" : "ชุดแต่งงาน: White Rabbit’s Oath",
 		"Lexington" : "ชุดตรุษจีน",
 		"Le Malin" : "วันอาทิตย์แสนขี้เกียจำ",
 		"Littorio" : "ชุดว่ายน้ำ: The Glory of Naples",
@@ -219,12 +229,14 @@
 	"N": {
 		"Nagato" : "ชุดแต่งงาน: อาภรณ์สีขาวและสุนัขจิ้งจอก",
 		"Nagato" : "ชุดนอน: ชุดนอนของคุณจิ้งจอก",
+		"Nagato" : "ชุดปีใหม่: Great Fox’s Ceremonial Robes",
 		"Nicholas" : "ชุดคริสต์มาส: ห่อผิดกล่อง?",
 		"Nicholas" : "ชุดนางพยาบาล",
 		"Nelson" : "ชุดฮาโลวีน: แม่มดแห่งดวงจันทร์",
 		"Ning Hai" : "ตงหวงซิสเตอร์! - N [Live2D]",
 		"Ning Hai" : "ชุดว่ายน้ำ",
 		"Neptune" : "ชุดคริสต์มาส: Princess of the Reindeers",
+		"Noshiro" : "ชุดปีใหม่: Festival’s Secret Place? [Live2D]",
 		"Ning Hai" : "เทศกาลไหว้พระจันทร์"
 	},
 	"O": {
@@ -248,6 +260,7 @@
 		"Queen Elizabeth" : "การเต้นรำของราชินี"
 	},
 	"R": {
+		"Ryuuhou" : "ชุดปีใหม่: New Year’s Dancing Phoenix [Live2D]",
 		"Roon" : "Dark Red Grin",
 		"Rodney" : "พนักงานรายวันฝึกหัด"
 	},
@@ -274,10 +287,12 @@
 		"Smalley" : "ชุดฮาโลวีน: Candy Courier ",
 		"Swiftsure" : "ชุดนักเรียน: ไซคลาเมนในห้องเรียน",
 		"South Dakota" : "คอนเสิร์ตเดี่ยว",
+		"Southampton" : "ชุดปีใหม่: New Year’s Little Knight",
 		"Souryuu" : "ชุดปีใหม่: นกกระเรียนท่ามกลางต้นสน",
 		"Souryuu" : "ชุดนักเรียน: คณะกรรมการวินัยที่ทางเดิน",
 		"Stanly" : "ชุดนักเรียน: Student Mode!",
 		"Surcouf" : "Shopping Time! [Live2D]",
+		"Suruga" : "ชุดปีใหม่: Auspicious Bouquet [Live2D]",
 		"Sussex" : "ชุดว่ายน้ำ: Sunlit Tulip"
 	},
 	"T": {
@@ -302,6 +317,7 @@
 		"U-556" : "ปาร์ตี้กลางคืน!",
 		"Unicorn" : "ดีวาแห่งดาวดวงน้อย",
 		"Unicorn" : "ชุดตรุษจีน: ของขวัญฤดูใบไม้ผลิ",
+		"Unicorn" : "ชุดปีใหม่: Prayers of Plum and Snow",
 		"Unicorn" : "ชุดนักเรียน: สวนสนุกที่ใฝ่ฝัน [Live2D]",
 		"Urakaze" : "ชุดคริสต์มาส: คริสต์มาสทั่วไป",
 		"Uzuki" : "ชุดนอน: นางฟ้าขี้เซา"
@@ -348,6 +364,7 @@
 		"Z23" : "รอยยิ้มเพอร์เฟค",
 		"Z23" : "ไอดอล: จริงจังไอดอล・M (ควบตำแหน่งผู้จัดการพาร์ทไทม์)",
 		"Z25" : "ชุดว่ายน้ำ: สายลมเย็นสบายในฤดูร้อน",
+		"Z35" : "ชุดปีใหม่: Projekt Kirschblüte",
 		"Z46" : "ชุดว่ายน้ำ: ฤดูร้อนครั้งแรก [Live2D]"
 	}
 }
