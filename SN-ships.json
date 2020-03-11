@@ -8,14 +8,14 @@
 	},
 	"*": {
 		"Avrora" : "ออโรรา",
-		"Tashkent",
-		"Sovetskaya Rossiya",
-		"Sovetsky Soyuz",
-		"Chapayev",
-		"Pamiat Merkuria",
-		"Gangut",
-		"Minsk",
-		"Grozny",
-		"Kirov"
+		"Tashkent" : "",
+		"Sovetskaya Rossiya" : "",
+		"Sovetsky Soyuz" : "",
+		"Chapayev" : "",
+		"Pamiat Merkuria" : "",
+		"Gangut" : "",
+		"Minsk" : "",
+		"Grozny" : "",
+		"Kirov" : ""
 	}
 }
