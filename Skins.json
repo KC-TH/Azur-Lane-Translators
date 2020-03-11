@@ -16,6 +16,7 @@
 		"Akagi" : "ชุดว่ายน้ำ: สรวงสวรรค์ว่านสี่ทิศ",
 		"Akagi" : "ชุดปีใหม่: พลัมและหิมะ",
 		"Akashi" : "ชุดปีใหม่: อาคาชิชุดสีแดงเนี้ยว",
+		"Akashi" : "Welcome to Sofmap!",
 		"Akashi" : "แมวดำมาแล้ว",
 		"Akashi" : "ยินดีต้อนรับสู่ AzurCon",
 		"Astoria" : "ชุดนักเรียน: สาวบริสุทธิ์?",
@@ -32,6 +33,7 @@
 		"Aurora" : "ชุดตรุษจีน: เรื่องราวของฤดูใบไม้ผลิ",
 		"Aurora" : "เพลงแห่งรุ่งอรุณ",
 		"Aurora" : "ชุดตรุษจีน: Heritage of Yu City [Live2D]",
+		"Avrora" : "Shackled Saule",
 		"Azuma" : "ชุดตรุษจีน: Soft Voice of Spring [Live2D]",
 		"Ardent" : "ชุดนักเรียน",
 		"Akatsuki" : "มุ่งหน้าสู่ขั้วโลกเหนือ",
@@ -62,6 +64,7 @@
 	},
 	"C": {
 		"Carabiniere" : "วันอาทิตย์ที่สดชื่น",
+		"Chapayev" : "The Captive Cavalier",
 		"Cavalla" : "ชุดนักเรียน: ยุทธการร้านสะดวกซื้อ",
 		"Centaur" : "ขุดว่ายน้ำ: จิตวิญญาณเอลฟ์แห่งสายน้ำ [Live2D]",
 		"Centaur" : "ชุดตรุษจีน",
@@ -126,6 +129,8 @@
 	},
 	"G": {
 		"Gascogne" : "ชุดว่ายน้ำ",
+		"Gangut" : "Imposing Warden",
+		"Grozny" : "Bad Bunny Behind Bars [Live2D]",
 		"Glasgow" : "ชุดนักเรียน: คุณเมดเป็นเพื่อนร่วมชั้น",
 		"Gloucester" : "ชุดตรุษจีน: Brilliance in Purple",
 		"Gridley" : "ชุดคริสต์มาส: ช่างภาพในคืนศักสิทธิ์",
@@ -228,6 +233,7 @@
 	},
 	"M": {
 		"Matchless" : "คุ้มกันให้ด้วยค่า!",
+		"Minsk" : "Thunderous Jailor",
 		"Memphis" : "ชุดฮาโลวีน: Mystical Night",
 		"Mutsuki" : "เทศกาลขนมหวาน",
 		"Mutsuki" : "ชุดคริสต์มาส: คุณกวางเรนเดีย ลุยเลย!",
@@ -265,6 +271,7 @@
 	},
 	"P": {
 		"Portland" : "ชุดนักเรียน: ไปโรงเรียนกับอินดี้จัง",
+		"Pamiat Merkuria" : "Caged Minx",
 		"Prince of Wales" : "ชุดปีใหม่",
 		"Prince of Wales" : "ชุดว่ายน้ำ",
 		"Ping Hai" : "ตงหวงซิสเตอร์! - P [Live2D]",
@@ -282,6 +289,7 @@
 	},
 	"R": {
 		"Ryuuhou" : "ชุดปีใหม่: Firebird's New Year Dance [Live2D]",
+		"Ryuujou" : "Slacking Samurai",
 		"Roon" : "Dark Red Grin",
 		"Rodney" : "พนักงานรายวันฝึกหัด"
 	},
@@ -317,12 +325,14 @@
 		"Stanly" : "ชุดนักเรียน: Student Mode!",
 		"Surcouf" : "Shopping Time! [Live2D]",
 		"Suruga" : "ชุดปีใหม่: Hundred Flowers' Auspice [Live2D]",
+		"Sovetskaya Rossiya" : "The Lackadaisical Lookout",
 		"Sussex" : "ชุดว่ายน้ำ: Sunlit Tulip"
 	},
 	"T": {
 		"Tirpitz" : "ชุดว่ายน้ำ: น้ำแข็งละลายในฤดูร้อน [Live2D]",
 		"Tirpitz" : "Iron Blood Snowstorm",
 		"Tanikaze" : "เด็กหลงทางกับเขาวงกตผีเสื้อ",
+		"Tashkent" : "The Bound Cruiser",
 		"Taihou" : "งานเลี้ยงต้องห้าม [Live2D]",
 		"Taihou" : "ชุดตรุษจีน: Phoenix's Spring Song [Live2D]",
 		"Tai Yuan" : "ชุดตรุษจีน [Live2D]",
