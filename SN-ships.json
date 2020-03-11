@@ -6,7 +6,16 @@
 		"Russian Federation" : "สหพันธรัฐรัสเซีย",		
 		"North Union" : "กองทัพเรือนอร์ทยูเนี่ยน"
 	},
-	"A": {
-		"Avrora" : "ออโรรา"
+	"*": {
+		"Avrora" : "ออโรรา",
+		"Tashkent",
+		"Sovetskaya Rossiya",
+		"Sovetsky Soyuz",
+		"Chapayev",
+		"Pamiat Merkuria",
+		"Gangut",
+		"Minsk",
+		"Grozny",
+		"Kirov"
 	}
 }
